@@ -1,5 +1,9 @@
+import Header from '../components/header/header'
+
 function Homepage(){
-    return <div>Welcome to JonSelbyCo!</div>
+    return(
+    <div><Header/></div>
+    ) 
 }
 
 export default Homepage
