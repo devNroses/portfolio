@@ -18,9 +18,9 @@ function Header(){
                <a>Contact</a>
 
                <div className={styles.header__social}>
-                   <a href="">Instagram</a>
-                   <a href="">LinkedIn</a>
-                   <a href="">Twitter</a>
+                   <a href="https://www.linkedin.com/in/jonathan-selby-developer/" target="_blank" rel="noopener">LinkedIn</a>
+                   <a href="https://www.instagram.com/jonselbyco_/" target="_blank" rel="noopener">Instagram</a>
+                   <a href="https://twitter.com/jonselbygfx_" target="_blank" rel="noopener">Twitter</a>
                </div>
             </div>
         </div>
