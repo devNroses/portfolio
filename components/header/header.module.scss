@@ -18,7 +18,8 @@
 
   &__title {
     h1 {
-      font-size: 48px;
+      font-size: 50px;
+      font-weight: bold;
       margin-bottom: 8px;
     }
 
@@ -55,8 +56,8 @@
   &__footer {
     display: flex;
     flex-direction: column;
-    font-size: 30px;
-    line-height: 2;
+    font-size: 32px;
+    line-height: 1.75;
   }
 
   &__social {
